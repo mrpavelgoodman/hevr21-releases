@@ -8,7 +8,7 @@ Each release carries:
 
 | File | System |
 | --- | --- |
-| `hevR-21-<version>-arm64.dmg` | macOS, Apple Silicon |
+| `hevR-21-<version>-universal.dmg` | macOS 12 or later, Intel and Apple Silicon |
 | `hevR-21-<version>-x64-Setup.exe` | Windows 10 or later, x64 |
 | `hevR-21-<version>-x64-Portable.zip` | Windows, no installer |
 | `hevR-21-<version>-amd64.deb` | Debian, Ubuntu and derivatives, x86-64 |
